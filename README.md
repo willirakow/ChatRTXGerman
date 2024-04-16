@@ -1,4 +1,7 @@
 # ChatRTXGerman
+
+![Chat with RTX in German](chat_with_rtx.png)
+
 ## Chat with RTX based on a German LLM
 
 NVIDIA Chat with RTX is a popular tool that demonstrates the capabilities of chatbots based on an LLM-RAG setup.
