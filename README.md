@@ -33,6 +33,8 @@ git clone https://huggingface.co/LeoLM/leo-hessianai-7b-chat
 
 ### Convert the model with TensorRT-LLM
 
+TensorRT-LLM is already installed as part of Chat with RTX.
+
 Open the Anaconda Prompt
 ```
 cd C:\Users\username\AppData\Local\NVIDIA\ChatWithRTX
